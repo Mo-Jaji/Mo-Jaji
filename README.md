@@ -8,6 +8,9 @@
       <a href="https://www.linkedin.com/in/mohammad-jaji/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
+     <a href="https://medium.com/@mohammadjaji98" target="blank"><img align="center"
+          src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"
+          alt="azzar" height="30"/></a>
 </details>
 
 <p align="center">I am a DevOps Engineer, technology enthusiast, a community driven individual with a passion for sharing knowledge, and a native problem solver.
