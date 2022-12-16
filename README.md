@@ -5,8 +5,9 @@
 
 
 ### 🧰 Recent Projects 
-    - [Password Manager](https://github.com/Mo-Jaji/3-Tier-Architectue_Terraform)
+-[3-Tier-Architecture](https://github.com/Mo-Jaji/3-Tier-Architectue_Terraform)
     -Using Amazone Managment tool to create infustructure 
+
 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
