@@ -10,10 +10,9 @@
          alt="azzar" height="30"/></a>
 </details>
 
-</p>
-
 <p align="center">I am a DevOps Engineer, technology enthusiast, a community driven individual with a passion for sharing knowledge, and a native problem solver.
 
+</p>
 
 ### 🧰 Recent Projects 
 -[3-Tier-Architecture](https://github.com/Mo-Jaji/3-Tier-Architectue_Terraform)
